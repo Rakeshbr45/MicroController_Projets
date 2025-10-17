@@ -1,1 +1,3 @@
 This repository includes multipe Microcontroller projects which are coded using MPLAB and for simulation and schematics Proteus is recommanded.Its includes application of different communication protocols such as UART,I2C, & SPI,ADC configurations, getting familiar with differnt Microcontroller architectures such as PIC,ARM,STM .Enhances the  hands-on  C programming in concepts suchs functions,pointers,strings,arrays,and memory
+
+
